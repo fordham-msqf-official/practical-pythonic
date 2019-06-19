@@ -4,3 +4,4 @@ Example Python code that solve practical problem in a Pythonic way.
 - Python 3.6.5
 # Topics
 - sched
+- lru_cache
